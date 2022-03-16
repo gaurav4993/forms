@@ -73,3 +73,8 @@ button:hover {
   width: auto;
   margin-right: 0.5rem;
 }
+@media (max-width: 48rem) {
+  form {
+    width: auto;
+  }
+}
